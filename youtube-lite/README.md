@@ -2,7 +2,14 @@
 
 A simple Youtube clone with reduced feature set made in React.
 
-### Usage
+## Installation
 
-`yarn install`
-`yarn dev`
+```shell
+yarn install
+```
+
+## How to run
+
+```shell
+yarn dev
+```
